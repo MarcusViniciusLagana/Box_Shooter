@@ -1,7 +1,10 @@
 # Box Shooter
  
  Project developed on October 16, 2020, during the Introduction to Game Development class at Coursera, offered by Michigan State University.
- There is a simple objective, shoot the boxes until you reach a high score (50 for level 1 and 100 for level 2). You have initially 15 seconds and each target can increase or reduce your time and score, so shoot wisely. Use "WASD" or the arrow keys to navigate, the mouse to shoot and control the camera, and the "ESC" button to release the mouse from the game scene.
+ 
+ There is a simple objective, shoot the boxes until you reach a high score (50 for level 1 and 100 for level 2). You have initially 15 seconds and each target can increase or reduce your time and score, so shoot wisely.
+ 
+ Use "WASD" or the arrow keys to navigate, the mouse to shoot and control the camera, and the "ESC" button to release the mouse from the game scene.
  
  Play the game <a href="https://play.unity.com/mg/other/webgl-builds-2534" target="_blank" rel="noopener noreferrer">here</a>
  
