@@ -9,7 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/WebGL*/
+/WebGL Builds/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
